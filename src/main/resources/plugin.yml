@@ -1,0 +1,6 @@
+name: WatchdogPM1EBugReport
+version: "${pom.version}"
+api: ["1.0.0"]
+author: PetteriM1
+main: me.petterim1.watchdogextension.Plugin
+depend: ["DiscordChat"]
